@@ -20,3 +20,8 @@ function draw()
 {
     image(video, 0, 0, 500, 400);
 }
+
+function play()
+{
+    song_1.play();
+}
